@@ -1,4 +1,6 @@
 .normaltext{
-    color: red;
+    color: rgb(36, 89, 109);
     width: 80%;
+    border-style: solid;
+    border-radius: 16px;
 }
