@@ -5,8 +5,16 @@
   <body>
     <H1>Welcome to My Website</H1>
     <div class="normaltext">This is my WebProgramming portfolio</div>
+    <div id="myDiv"> Original Content </div>
+    <button onClick="changeMe()">Click Here!</button>
+    <script>
+      function changeMe(){
+        const div = document.getElementById('myDiv');
+        div.innerHTML = 'Content Changed!!';
+      }
+    </script>
   </body>
   <div>
-    
+
   </div>
 </html>
