@@ -6,16 +6,17 @@
 }
 
 #about{
-    font-color: white;
     background-color: black;
     font-family: cursive;
     font-size: 13pt;
     text-align: center;
     color: white;
+    display: flex;
 }
 
 #topBar{
     display: flex;
     background-color: rgb(60, 14, 14);
     color: white;
+    padding: 10px 10px 6px;
 }
