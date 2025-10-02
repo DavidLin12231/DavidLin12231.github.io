@@ -4,3 +4,10 @@
     border-style: solid;
     border-radius: 16px;
 }
+
+.about{
+    font-color: white;
+    background-color: black;
+    font-family: Times New Roman;
+    font-size: 13pt;
+}
