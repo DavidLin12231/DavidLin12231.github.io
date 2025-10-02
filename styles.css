@@ -8,9 +8,10 @@
 #about{
     font-color: white;
     background-color: black;
-    font-family: Times New Roman;
+    font-family: cursive;
     font-size: 13pt;
     text-align: center;
+    color: white;
 }
 
 #topBar{
